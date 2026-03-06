@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハムパチーノ・キンタロキャンディ",
+  "base_artist": "ハムパチーノ",
+  "createdAt": "2026-03-06T16:17:50.928465Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハムパチーノ・キンタロキャンディ",
+      "artist": "ハムパチーノ",
+      "has_synced": false,
+      "path": "select/pl_01_ハムパチーノ・キンタロキャンディ_ハムパチーノ.txt"
+    }
+  ]
+}
